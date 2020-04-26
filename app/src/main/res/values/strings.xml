@@ -1,0 +1,20 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_videos">Videos</string>
+    <string name="app_name">Turizm</string>
+
+    <string name="input_name">Введите логин</string>
+    <string name="string_login">Туризм в Казахстане</string>
+    <string name="string_password">Введите пароль</string>
+    <string name="signin">Войти</string>
+    <string name="loginError">Неверный логин или пароль</string>
+    <string name="People">Взрослых</string>
+    <string name="Children">Детей</string>
+    <string name="countBtn">ПРИМЕНИТЬ</string>
+    <string name="countString">Укажите количество гостей</string>
+    <string name="radioButtonStroig">Я путешествую по работе</string>
+    <string name="countPersonString">1 взрослых · без детей</string>
+    <string name="dateStiong">Заезд - Отъезд</string>
+</resources>
